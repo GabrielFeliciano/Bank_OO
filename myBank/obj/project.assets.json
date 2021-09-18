@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\barbara.rezende\\.nuget\\packages\\": {}
+    "/home/vsel/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\barbara.rezende\\Desktop\\ETE\\Linguagem_de_Programacao\\Aulas\\7. Programação Orientada a Objetos - Parte 1\\Aula_02_Bank\\Bank_OO\\myBank\\myBank.csproj",
+      "projectUniqueName": "/home/vsel/Documents/Repositories/Bank_OO/myBank/myBank.csproj",
       "projectName": "myBank",
-      "projectPath": "C:\\Users\\barbara.rezende\\Desktop\\ETE\\Linguagem_de_Programacao\\Aulas\\7. Programação Orientada a Objetos - Parte 1\\Aula_02_Bank\\Bank_OO\\myBank\\myBank.csproj",
-      "packagesPath": "C:\\Users\\barbara.rezende\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\barbara.rezende\\Desktop\\ETE\\Linguagem_de_Programacao\\Aulas\\7. Programação Orientada a Objetos - Parte 1\\Aula_02_Bank\\Bank_OO\\myBank\\obj\\",
+      "projectPath": "/home/vsel/Documents/Repositories/Bank_OO/myBank/myBank.csproj",
+      "packagesPath": "/home/vsel/.nuget/packages/",
+      "outputPath": "/home/vsel/Documents/Repositories/Bank_OO/myBank/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\barbara.rezende\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/vsel/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -30,6 +30,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -41,6 +42,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -51,12 +53,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[3.1.19, 3.1.19]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/140/sdk/5.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }

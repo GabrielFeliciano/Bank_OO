@@ -3,7 +3,8 @@ public class ContaCorrente{
     public string titular; 
     public int agencia;
     public int conta; 
-    private double saldo {get; set;}
+    private double _saldo;
+    public double saldo {get => _saldo;}
 
     public ContaCorrente() {}
 
@@ -12,7 +13,7 @@ public class ContaCorrente{
         titular = contacorrente_titular;
         agencia = contacorrente_agencia;
         conta = contacorrente_conta;
-        saldo = contacorrente_saldo;
+        _saldo = contacorrente_saldo;
     }
 
     public bool Sacar (double valor){
@@ -20,13 +21,13 @@ public class ContaCorrente{
             return false;
         }
         else{
-            this.saldo -= valor;
+            this._saldo -= valor;
             return true;
         }
     }
 
     public void Depositar (double valor){
-        this.saldo += valor;
+        this._saldo += valor;
     }
 
     public bool Transferir (double valor, ContaCorrente contaDestino){

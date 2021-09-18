@@ -11,7 +11,7 @@ namespace myBank
             ContaCorrente contaDaMaria = new ContaCorrente("Maria", 1234, 791, 150);
 
             contaDaBarbara.Sacar(50);
-            Console.WriteLine("O saldo da conta da Barbara é: " + contaDaBarbara.Saldo);
+            Console.WriteLine("O saldo da conta da Barbara é: " + contaDaBarbara.saldo);
         }
     }
 }

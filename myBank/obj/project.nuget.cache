@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "l+V/CWJ2SMGClNGlU4Yv5boxh1g9qy7ZZdhkQnlAo2NmLlHSZQrIhZmuG0g6BAxa0WbDcjh6ix1X+TXxARB/FA==",
+  "dgSpecHash": "6xyz9y4q+uZCfJgBZoTGzfHSSWNsS5zoYkk1GF0rs1u07TgzXjHoyP5OLg7YEloZi2PvXYlPisBEhAgb0bUsmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\barbara.rezende\\Desktop\\ETE\\Linguagem_de_Programacao\\Aulas\\7. Programação Orientada a Objetos - Parte 1\\Aula_02_Bank\\Bank_OO\\myBank\\myBank.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/vsel/Documents/Repositories/Bank_OO/myBank/myBank.csproj",
+  "expectedPackageFiles": [
+    "/home/vsel/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/vsel/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/vsel/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.19/microsoft.netcore.app.host.linux-x64.3.1.19.nupkg.sha512"
+  ],
   "logs": []
 }
