@@ -1,26 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/home/vsel/Documents/Repositories/Bank_OO/myBank/myBank.csproj": {}
+    "C:\\Users\\Gabriel\\Documents\\Repositórios\\Bank_OO\\myBank\\myBank.csproj": {}
   },
   "projects": {
-    "/home/vsel/Documents/Repositories/Bank_OO/myBank/myBank.csproj": {
+    "C:\\Users\\Gabriel\\Documents\\Repositórios\\Bank_OO\\myBank\\myBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vsel/Documents/Repositories/Bank_OO/myBank/myBank.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\Repositórios\\Bank_OO\\myBank\\myBank.csproj",
         "projectName": "myBank",
-        "projectPath": "/home/vsel/Documents/Repositories/Bank_OO/myBank/myBank.csproj",
-        "packagesPath": "/home/vsel/.nuget/packages/",
-        "outputPath": "/home/vsel/Documents/Repositories/Bank_OO/myBank/obj/",
+        "projectPath": "C:\\Users\\Gabriel\\Documents\\Repositórios\\Bank_OO\\myBank\\myBank.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel\\Documents\\Repositórios\\Bank_OO\\myBank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/vsel/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "http://nuget.grapecity.com/nuget": {},
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -47,26 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[3.1.19, 3.1.19]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/140/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

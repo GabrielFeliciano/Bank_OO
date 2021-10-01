@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6xyz9y4q+uZCfJgBZoTGzfHSSWNsS5zoYkk1GF0rs1u07TgzXjHoyP5OLg7YEloZi2PvXYlPisBEhAgb0bUsmg==",
+  "dgSpecHash": "OHPkSRFQPMjEsUdAJRT3NdxkMq/BVuuazLB8Qw6ywWGeq4AhF7Eb/bYhq5EdiPs4kisTWv0EsUHsy7FWMRnHbA==",
   "success": true,
-  "projectFilePath": "/home/vsel/Documents/Repositories/Bank_OO/myBank/myBank.csproj",
-  "expectedPackageFiles": [
-    "/home/vsel/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "/home/vsel/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/home/vsel/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.19/microsoft.netcore.app.host.linux-x64.3.1.19.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\Repositórios\\Bank_OO\\myBank\\myBank.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

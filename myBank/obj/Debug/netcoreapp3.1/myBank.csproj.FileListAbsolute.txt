@@ -18,3 +18,17 @@ C:/Users/barbara.rezende/Desktop/ETE/Linguagem_de_Programacao/Aulas/7. Programa�
 /home/vsel/Documents/Repositories/Bank_OO/myBank/obj/Debug/netcoreapp3.1/myBank.csproj.CoreCompileInputs.cache
 /home/vsel/Documents/Repositories/Bank_OO/myBank/obj/Debug/netcoreapp3.1/myBank.dll
 /home/vsel/Documents/Repositories/Bank_OO/myBank/obj/Debug/netcoreapp3.1/myBank.pdb
+C:\Users\Gabriel\Documents\Repositórios\Bank_OO\myBank\bin\Debug\netcoreapp3.1\myBank.exe
+C:\Users\Gabriel\Documents\Repositórios\Bank_OO\myBank\bin\Debug\netcoreapp3.1\myBank.deps.json
+C:\Users\Gabriel\Documents\Repositórios\Bank_OO\myBank\bin\Debug\netcoreapp3.1\myBank.runtimeconfig.json
+C:\Users\Gabriel\Documents\Repositórios\Bank_OO\myBank\bin\Debug\netcoreapp3.1\myBank.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\Repositórios\Bank_OO\myBank\bin\Debug\netcoreapp3.1\myBank.dll
+C:\Users\Gabriel\Documents\Repositórios\Bank_OO\myBank\bin\Debug\netcoreapp3.1\myBank.pdb
+C:\Users\Gabriel\Documents\Repositórios\Bank_OO\myBank\obj\Debug\netcoreapp3.1\myBank.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Repositórios\Bank_OO\myBank\obj\Debug\netcoreapp3.1\myBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Repositórios\Bank_OO\myBank\obj\Debug\netcoreapp3.1\myBank.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Repositórios\Bank_OO\myBank\obj\Debug\netcoreapp3.1\myBank.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Repositórios\Bank_OO\myBank\obj\Debug\netcoreapp3.1\myBank.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Repositórios\Bank_OO\myBank\obj\Debug\netcoreapp3.1\myBank.dll
+C:\Users\Gabriel\Documents\Repositórios\Bank_OO\myBank\obj\Debug\netcoreapp3.1\myBank.pdb
+C:\Users\Gabriel\Documents\Repositórios\Bank_OO\myBank\obj\Debug\netcoreapp3.1\myBank.genruntimeconfig.cache
