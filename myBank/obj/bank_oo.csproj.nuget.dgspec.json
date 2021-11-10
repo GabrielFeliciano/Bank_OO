@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\Documents\\Repositórios\\Bank_OO\\myBank\\myBank.csproj": {}
+    "D:\\Repositórios\\Bank_OO_\\myBank\\bank_oo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\Documents\\Repositórios\\Bank_OO\\myBank\\myBank.csproj": {
+    "D:\\Repositórios\\Bank_OO_\\myBank\\bank_oo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\Repositórios\\Bank_OO\\myBank\\myBank.csproj",
-        "projectName": "myBank",
-        "projectPath": "C:\\Users\\Gabriel\\Documents\\Repositórios\\Bank_OO\\myBank\\myBank.csproj",
+        "projectUniqueName": "D:\\Repositórios\\Bank_OO_\\myBank\\bank_oo.csproj",
+        "projectName": "bank_oo",
+        "projectPath": "D:\\Repositórios\\Bank_OO_\\myBank\\bank_oo.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\Documents\\Repositórios\\Bank_OO\\myBank\\obj\\",
+        "outputPath": "D:\\Repositórios\\Bank_OO_\\myBank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "http://nuget.grapecity.com/nuget": {},
           "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",

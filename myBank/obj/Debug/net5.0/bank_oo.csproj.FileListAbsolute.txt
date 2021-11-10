@@ -1,0 +1,32 @@
+C:\Users\Bruna\Programação\Projetos(LP)\3º Trimestre\Bank_OO\bank_oo\bin\Debug\net5.0\bank_oo.exe
+C:\Users\Bruna\Programação\Projetos(LP)\3º Trimestre\Bank_OO\bank_oo\bin\Debug\net5.0\bank_oo.deps.json
+C:\Users\Bruna\Programação\Projetos(LP)\3º Trimestre\Bank_OO\bank_oo\bin\Debug\net5.0\bank_oo.runtimeconfig.json
+C:\Users\Bruna\Programação\Projetos(LP)\3º Trimestre\Bank_OO\bank_oo\bin\Debug\net5.0\bank_oo.runtimeconfig.dev.json
+C:\Users\Bruna\Programação\Projetos(LP)\3º Trimestre\Bank_OO\bank_oo\bin\Debug\net5.0\bank_oo.dll
+C:\Users\Bruna\Programação\Projetos(LP)\3º Trimestre\Bank_OO\bank_oo\bin\Debug\net5.0\ref\bank_oo.dll
+C:\Users\Bruna\Programação\Projetos(LP)\3º Trimestre\Bank_OO\bank_oo\bin\Debug\net5.0\bank_oo.pdb
+C:\Users\Bruna\Programação\Projetos(LP)\3º Trimestre\Bank_OO\bank_oo\obj\Debug\net5.0\bank_oo.csproj.AssemblyReference.cache
+C:\Users\Bruna\Programação\Projetos(LP)\3º Trimestre\Bank_OO\bank_oo\obj\Debug\net5.0\bank_oo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruna\Programação\Projetos(LP)\3º Trimestre\Bank_OO\bank_oo\obj\Debug\net5.0\bank_oo.AssemblyInfoInputs.cache
+C:\Users\Bruna\Programação\Projetos(LP)\3º Trimestre\Bank_OO\bank_oo\obj\Debug\net5.0\bank_oo.AssemblyInfo.cs
+C:\Users\Bruna\Programação\Projetos(LP)\3º Trimestre\Bank_OO\bank_oo\obj\Debug\net5.0\bank_oo.csproj.CoreCompileInputs.cache
+C:\Users\Bruna\Programação\Projetos(LP)\3º Trimestre\Bank_OO\bank_oo\obj\Debug\net5.0\bank_oo.dll
+C:\Users\Bruna\Programação\Projetos(LP)\3º Trimestre\Bank_OO\bank_oo\obj\Debug\net5.0\ref\bank_oo.dll
+C:\Users\Bruna\Programação\Projetos(LP)\3º Trimestre\Bank_OO\bank_oo\obj\Debug\net5.0\bank_oo.pdb
+C:\Users\Bruna\Programação\Projetos(LP)\3º Trimestre\Bank_OO\bank_oo\obj\Debug\net5.0\bank_oo.genruntimeconfig.cache
+D:\Repositórios\Bank_OO_\myBank\bin\Debug\net5.0\bank_oo.exe
+D:\Repositórios\Bank_OO_\myBank\bin\Debug\net5.0\bank_oo.deps.json
+D:\Repositórios\Bank_OO_\myBank\bin\Debug\net5.0\bank_oo.runtimeconfig.json
+D:\Repositórios\Bank_OO_\myBank\bin\Debug\net5.0\bank_oo.runtimeconfig.dev.json
+D:\Repositórios\Bank_OO_\myBank\bin\Debug\net5.0\bank_oo.dll
+D:\Repositórios\Bank_OO_\myBank\bin\Debug\net5.0\ref\bank_oo.dll
+D:\Repositórios\Bank_OO_\myBank\bin\Debug\net5.0\bank_oo.pdb
+D:\Repositórios\Bank_OO_\myBank\obj\Debug\net5.0\bank_oo.csproj.AssemblyReference.cache
+D:\Repositórios\Bank_OO_\myBank\obj\Debug\net5.0\bank_oo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositórios\Bank_OO_\myBank\obj\Debug\net5.0\bank_oo.AssemblyInfoInputs.cache
+D:\Repositórios\Bank_OO_\myBank\obj\Debug\net5.0\bank_oo.AssemblyInfo.cs
+D:\Repositórios\Bank_OO_\myBank\obj\Debug\net5.0\bank_oo.csproj.CoreCompileInputs.cache
+D:\Repositórios\Bank_OO_\myBank\obj\Debug\net5.0\bank_oo.dll
+D:\Repositórios\Bank_OO_\myBank\obj\Debug\net5.0\ref\bank_oo.dll
+D:\Repositórios\Bank_OO_\myBank\obj\Debug\net5.0\bank_oo.pdb
+D:\Repositórios\Bank_OO_\myBank\obj\Debug\net5.0\bank_oo.genruntimeconfig.cache
